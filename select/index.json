@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Fly Away",
+  "base_artist": "TheFatRat",
+  "createdAt": "2025-12-22T09:38:07.426447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Fly Away",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/01_I'll_Fly_Away_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Fly Away",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/02_I'll_Fly_Away_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Fly Away",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/03_I'll_Fly_Away_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Dollar (Fly Away)",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/04_Last_Dollar_(Fly_Away)_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Dollar (Fly Away)",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/05_Last_Dollar_(Fly_Away)_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly Away",
+      "artist": "F.I.R.",
+      "has_synced": true,
+      "path": "select/06_Fly_Away_F.I.R..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly Away",
+      "artist": "Daniel Powter",
+      "has_synced": true,
+      "path": "select/07_Fly_Away_Daniel_Powter.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FLY AWAY",
+      "artist": "Fish Leong",
+      "has_synced": true,
+      "path": "select/08_FLY_AWAY_Fish_Leong.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fly away",
+      "artist": "梁静茹",
+      "has_synced": true,
+      "path": "select/09_Fly_away_梁静茹.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fly Away",
+      "artist": "Gloryhammer",
+      "has_synced": true,
+      "path": "select/10_Fly_Away_Gloryhammer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fly Away",
+      "artist": "A$AP ANT feat. Larry June",
+      "has_synced": true,
+      "path": "select/11_Fly_Away_A$AP_ANT_feat._Larry_June.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fly Away",
+      "artist": "A$AP ANT, Larry June",
+      "has_synced": true,
+      "path": "select/12_Fly_Away_A$AP_ANT,_Larry_June.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fly Away",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/13_Fly_Away_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fly Away",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/14_Fly_Away_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fly Away",
+      "artist": "4 Strings",
+      "has_synced": true,
+      "path": "select/15_Fly_Away_4_Strings.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fly Away",
+      "artist": "Haddaway",
+      "has_synced": true,
+      "path": "select/16_Fly_Away_Haddaway.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly Away",
+      "artist": "TheFatRat, Anjulie",
+      "has_synced": false,
+      "path": "select/pl_01_Fly_Away_TheFatRat,_Anjulie.txt"
+    }
+  ]
+}
